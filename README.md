@@ -34,6 +34,10 @@ To create a **trustless and decentralized node infrastructure layer**, where net
 - **JavaScript** – For deployment and testing scripts  
 - **Ethereum / Sepolia Testnet**
 
+
+contract detail : 0x9e29A6A21D99821A984ee6C265E14f3215f2bCEF
+![alt text](image.png)
+
 ---
 
 ### 🪄 Commands
@@ -51,6 +55,3 @@ npx hardhat test
 # Deploy to Sepolia testnet
 npx hardhat run scripts/deploy.js --network sepolia
 
-
-contract detail : 0x9e29A6A21D99821A984ee6C265E14f3215f2bCEF
-![alt text](image.png)
