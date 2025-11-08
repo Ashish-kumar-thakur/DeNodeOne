@@ -129,3 +129,6 @@ contract DeNodeOne is Ownable {
      */
     receive() external payable {}
 }
+// 
+End
+// 
